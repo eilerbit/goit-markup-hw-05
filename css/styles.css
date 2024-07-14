@@ -611,6 +611,8 @@ header {
 .modal-exit-button:hover,
 .modal-exit-button:focus {
     fill: #ffffff;
+    background-color: #404bbf;
+    border: none;
 }
 
 .modal-text {
