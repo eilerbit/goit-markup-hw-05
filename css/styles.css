@@ -717,7 +717,7 @@ input[type="text"]:focus + .modal-icon {
     fill: transparent;
 }
 
-input[class="modal-input-terms"]:checked + .modal-label-terms > .privacy-policy-span {
+input[class="modal-input-terms visually-hidden"]:checked + .modal-label-terms > .privacy-policy-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;    
